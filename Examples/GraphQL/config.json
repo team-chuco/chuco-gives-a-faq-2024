@@ -1,0 +1,9 @@
+{
+    "instance_url": "https://{instance_name}.cloud.tanium.com",
+    "token": "token-",
+    "computer_name_filter_value": "win",
+    "custom_tag_filter_value": "demo_endpoint",
+    "custom_tags": [
+        "graphql_tag"
+    ]
+}
